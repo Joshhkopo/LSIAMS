@@ -1,0 +1,2 @@
+[2026-07-31 10:46:54] ERROR: Unhandled exception: Database connection failed. {"file":"C:\\lsiams\\app\\Core\\Database.php","line":35,"path":"/login"}
+[2026-07-31 10:47:10] ERROR: Unhandled exception: Database connection failed. {"file":"C:\\lsiams\\app\\Core\\Database.php","line":35,"path":"/login"}
