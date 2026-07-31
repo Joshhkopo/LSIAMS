@@ -1,2 +1,0 @@
-# LSIAMS
-Capstone project
