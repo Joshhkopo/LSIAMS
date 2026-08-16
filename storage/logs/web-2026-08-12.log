@@ -1,0 +1,3 @@
+[2026-08-12 15:49:20] web.WARNING: Request failed {"method":"POST","path":"/login","ip":"127.0.0.1","duration_ms":19.5,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Validation failed."}
+[2026-08-12 15:52:03] web.WARNING: Request failed {"method":"POST","path":"/password/change","ip":"127.0.0.1","duration_ms":16.8,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Validation failed."}
+[2026-08-12 16:07:58] web.WARNING: Request failed {"method":"GET","path":"/notifications/unread-count","ip":"127.0.0.1","duration_ms":3,"exception":"App\\Core\\Exceptions\\AuthenticationException","message":"Your session is no longer valid. Please sign in again."}

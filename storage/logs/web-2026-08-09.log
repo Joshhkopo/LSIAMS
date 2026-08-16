@@ -1,0 +1,9 @@
+[2026-08-09 00:57:44] web.WARNING: Request failed {"method":"POST","path":"/admin/devices","ip":"127.0.0.1","duration_ms":17.9,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Validation failed."}
+[2026-08-09 00:58:05] web.WARNING: Request failed {"method":"POST","path":"/admin/devices","ip":"127.0.0.1","duration_ms":32.1,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Validation failed."}
+[2026-08-09 00:59:38] web.WARNING: Request failed {"method":"POST","path":"/admin/devices/1/revoke-key","ip":"127.0.0.1","duration_ms":314.5,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Password confirmation failed."}
+[2026-08-09 01:35:50] web.WARNING: Request failed {"method":"POST","path":"/admin/devices","ip":"127.0.0.1","duration_ms":20.9,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Validation failed."}
+[2026-08-09 01:35:54] web.WARNING: Request failed {"method":"POST","path":"/admin/devices","ip":"127.0.0.1","duration_ms":30.3,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Validation failed."}
+[2026-08-09 01:36:06] web.WARNING: Request failed {"method":"POST","path":"/admin/devices","ip":"127.0.0.1","duration_ms":16,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Validation failed."}
+[2026-08-09 01:36:55] web.WARNING: Request failed {"method":"POST","path":"/admin/devices","ip":"127.0.0.1","duration_ms":29.2,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Validation failed."}
+[2026-08-09 01:36:58] web.WARNING: Request failed {"method":"POST","path":"/admin/devices","ip":"127.0.0.1","duration_ms":26.5,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Validation failed."}
+[2026-08-09 01:37:00] web.WARNING: Request failed {"method":"POST","path":"/admin/devices","ip":"127.0.0.1","duration_ms":20.3,"exception":"App\\Core\\Exceptions\\ValidationException","message":"Validation failed."}
