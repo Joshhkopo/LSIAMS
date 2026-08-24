@@ -30,7 +30,7 @@ final class AttendanceApiController extends Controller
         $data = $this->validate($request, [
             'fingerprint_id' => 'required|int|between:1,999',
             'confidence'     => 'nullable|int|between:0,65535',
-            'schedule_id'    => 'nullable|int',
+            'schedule_id'    => 'nullable|int';
         ], [
             'fingerprint_id' => 'Sensor slot',
         ]);
